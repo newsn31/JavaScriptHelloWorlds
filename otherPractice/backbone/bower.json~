@@ -1,0 +1,21 @@
+{
+  "name": "backbone practice",
+  "version": "0.0.1",
+  "description": "backbone practice",
+  "main": "app.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "backbone": "https://github.com/jashkenas/backbone.git#1.2.1"
+  }
+}
